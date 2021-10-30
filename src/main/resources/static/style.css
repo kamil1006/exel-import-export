@@ -1,0 +1,15 @@
+body{
+    background: antiquewhite;
+}
+#formChooseFile1, #formChooseTable1{
+
+    background-color: bisque;
+    width: fit-content;
+    height: max-content;
+    padding: 10px;
+    box-shadow: 5px 5px 2px black;
+
+}
+#jumbojet{
+    text-align: center;
+}
